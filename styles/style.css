@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:300,regular,500);
 @import url(header.css);
 @import url(sec-one.css);
+@import url(sec-two.css);
 body {
     font-family: Poppins;
     font-weight: 300;
