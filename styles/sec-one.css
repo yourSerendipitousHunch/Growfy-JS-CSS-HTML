@@ -11,7 +11,7 @@
     flex: 0 1 50%;
     align-self: center;
 }
-.main__title::before {
+.decore.main__title::before {
     content: '';
     background: url('../img/main/decore.svg') 0 0 / 100% no-repeat;
     width: 122px;
