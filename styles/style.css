@@ -4,6 +4,7 @@
 @import url(sec-one.css);
 @import url(sec-two.css);
 @import url(sec-three.css);
+@import url(sec-four.css);
 body {
     font-family: Poppins;
     font-weight: 300;
@@ -84,6 +85,26 @@ body {
 }
 .main__label:not(:last-child) {
     margin-bottom: 19px;
+}
+.main__list li {
+    position: relative;
+    min-height: 32px;
+    padding-left: 40px;
+    padding-top: 4px;
+    line-height: 1.5;
+}
+.main__list li:not(:last-child) {
+    margin-bottom: 16px;
+}
+.main__list li::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    background: rgba(129, 129, 139, 0.1) url('../img/Vector.svg') center no-repeat;
 }
 @media (max-width: 991.98px) {
     .button {

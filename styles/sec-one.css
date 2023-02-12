@@ -13,7 +13,7 @@
 }
 .decore.main__title::before {
     content: '';
-    background: url('../img/main/decore.svg') 0 0 / 100% no-repeat;
+    background: url('../img/decore.svg') 0 0 / 100% no-repeat;
     width: 122px;
     height: 122px;
     position: absolute;
