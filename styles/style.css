@@ -9,6 +9,7 @@
 @import url(sec-f.css);
 @import url(sec-g.css);
 @import url(sec-h.css);
+@import url(footer.css);
 body {
     font-family: Poppins;
     font-weight: 300;
