@@ -1,11 +1,11 @@
 @import url(reset.css);
 @import url(https://fonts.googleapis.com/css?family=Poppins:300,regular,500);
 @import url(header.css);
-@import url(sec-one.css);
-@import url(sec-two.css);
-@import url(sec-three.css);
-@import url(sec-four.css);
-@import url(sec-five.css);
+@import url(sec-a.css);
+@import url(sec-b.css);
+@import url(sec-c.css);
+@import url(sec-d.css);
+@import url(sec-e.css);
 body {
     font-family: Poppins;
     font-weight: 300;
