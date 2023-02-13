@@ -6,6 +6,7 @@
 @import url(sec-c.css);
 @import url(sec-d.css);
 @import url(sec-e.css);
+@import url(sec-f.css);
 body {
     font-family: Poppins;
     font-weight: 300;
@@ -58,6 +59,17 @@ body {
 }
 .main__text:not(:last-child) {
     margin-bottom: 33px;
+}
+.main__body .main__text {
+    margin: 0;
+}
+.main__body {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.main__button {
+    align-self: flex-end;
 }
 .main__title {
     font-weight: 500;
@@ -132,5 +144,9 @@ body {
     }
     .main__text:not(:last-child) {
         margin-bottom: 15px;
+    }
+    .main__body {
+        flex-direction: column;
+        gap: 0px;
     }
 }
