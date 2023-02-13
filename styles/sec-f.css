@@ -2,15 +2,6 @@
     padding-top: 100px;
     padding-bottom: 100px;
 }
-.testimonials__content .main__title{
-    max-width: none;
-}
-.testimonials__content .main__text {
-    max-width: 740px;
-}
-.testimonials__content .main__actions {
-    flex: 0 0 auto;
-}
 .testimonials__content {
     margin-bottom: 64px;
 }
