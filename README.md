@@ -1,5 +1,5 @@
 # Growfy-JS-CSS-HTML: 
-https://yourserendipitoushunch.github.io/Growfy-JS-CSS-HTML/
+## Link: https://yourserendipitoushunch.github.io/Growfy-JS-CSS-HTML/
 
 ***Landing Page for plants shop***
 
